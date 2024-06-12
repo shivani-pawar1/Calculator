@@ -1,2 +1,2 @@
 # Calculator
-I developed this project using html and css.
+I developed this calculator using html and css.
